@@ -24,8 +24,10 @@ se necesitan para implementar el sistema."**
 Según esto se ha realizado un trabajo de arquitectura de software en el que según la comprensión del negocio, infraestructura y funcionamiento se generaron las siguientes vistas:
 
 ## Vista de Organización
-
+Este punto de vista muestra los actores (tenderos, tienda, dueño ) en el negocio que considera por un lado la venta de productos por internet (a domicilio) y por otro lado el despacho de mercancía de productos en la tienda. 
+![Diagrama Clases-JuegoComeCirculos](imagenes/DiagramaClasesJuegoPython-DiagramaFinal.png)
 ## Vista de Uso de infraestructura
+![Diagrama Clases-JuegoComeCirculos](imagenes/DiagramaClasesJuegoPython-DiagramaFinal.png)
 
 ## Vista de capas
 
