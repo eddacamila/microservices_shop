@@ -24,14 +24,16 @@ se necesitan para implementar el sistema."**
 Según esto se ha realizado un trabajo de arquitectura de software en el que según la comprensión del negocio, infraestructura y funcionamiento se generaron las siguientes vistas:
 
 ## Vista de Organización
-Este punto de vista muestra los actores (tenderos, tienda, dueño ) en el negocio que considera por un lado la venta de productos por internet (a domicilio) y por otro lado el despacho de mercancía de productos en la tienda. 
-![Diagrama Clases-JuegoComeCirculos](imagenes/DiagramaClasesJuegoPython-DiagramaFinal.png)
-## Vista de Uso de infraestructura
-![Diagrama Clases-JuegoComeCirculos](imagenes/DiagramaClasesJuegoPython-DiagramaFinal.png)
+Este punto de vista muestra los actores (tenderos, tienda, dueño ) y sus relaciones en el negocio, que considera por un lado la venta de productos por internet (a domicilio) y por otro lado el despacho de mercancía de productos en la tienda. 
+![Punto de vista de Organización](imagenes_vistas/Organización.png)
+## Actor-Cooperación 
+Este punto de vista extiende el punto de vista anterior, determinando relaciones externas y colaboraciones, muestra las redes sobre la que operan los actores. La pagína web expondría un servicio. Por eso, se observa  un servicio que se llama **solicitar pedido** asociado a la página web. Además se puede modelar la interfaz del servicio que modela el rol de negocios del tendero que se llama **registro de pedidos** ofertada por un componente de aplicación denominada **pedidos** (Relación de composición). Se deja a nivel de negocio y se muestra la colaboración de actores y cómo se ve realizada esta colaboración entre actores para el despacho de pedidos por medio de la página web.
+![Punto de vista Actor-Cooperación](imagenes_vistas/Organización.png)
 
-## Vista de capas
+## Vista de Funciones del Negocio
+Se manejan los roles asociados a unas funciones.
 
-![Diagrama Clases-JuegoComeCirculos](imagenes/DiagramaClasesJuegoPython-DiagramaFinal.png)
+![Punto de Funciones del Negocio ](imagenes_vistas/FuncionesDelNegocio.png)
 
 
 
