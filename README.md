@@ -18,7 +18,7 @@ Esta implementación tuvo un procedimiento previo que consideró el diseño de l
 # MODELADO DE ARQUITECTURA
 
 Se subraya que "El diseño crea una representación o modelo del software, pero, a diferencia del modelo de los requerimientos (que se centra en describir los datos que se
-necesitan, la función y el comportamiento),** el modelo de diseño proporciona detalles sobre arquitectura del software, estructuras de datos, interfaces y componentes que
+necesitan, la función y el comportamiento), **el modelo de diseño proporciona detalles sobre arquitectura del software, estructuras de datos, interfaces y componentes que
 se necesitan para implementar el sistema."**
 
 Según esto se ha realizado un trabajo de arquitectura de software en el que según la comprensión del negocio, infraestructura y funcionamiento se generaron las siguientes vistas:
