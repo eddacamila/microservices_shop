@@ -40,11 +40,5 @@ Se manejan los roles asociados a unas funciones.
 ## Explicación general del Código que se presenta
 Para el desarrollo de la implementación se usa python, nginx, flask y docker como contenedor. De esta forma encontramos la siguiente información: 
 ```
-//Created Stage
-var stageFrame = new Stage('canvas', 600, 400);
-//Created Game
-var  game1 = new Game(stageFrame);
-game1.menu();
-stageFrame.context.canvas.focus();
 
 ```
