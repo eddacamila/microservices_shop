@@ -28,17 +28,64 @@ Este punto de vista muestra los actores (tenderos, tienda, dueño ) y sus relaci
 ![Punto de vista de Organización](imagenes_vistas/Organización.png)
 ## Actor-Cooperación 
 Este punto de vista extiende el punto de vista anterior, determinando relaciones externas y colaboraciones, muestra las redes sobre la que operan los actores. La pagína web expondría un servicio. Por eso, se observa  un servicio que se llama **solicitar pedido** asociado a la página web. Además se puede modelar la interfaz del servicio que modela el rol de negocios del tendero que se llama **registro de pedidos** ofertada por un componente de aplicación denominada **pedidos** (Relación de composición). Se deja a nivel de negocio y se muestra la colaboración de actores y cómo se ve realizada esta colaboración entre actores para el despacho de pedidos por medio de la página web.
-![Punto de vista Actor-Cooperación](imagenes_vistas/Organización.png)
+![Punto de vista Actor-Cooperación](imagenes_vistas/Actor-Cooperación.png)
 
 ## Vista de Funciones del Negocio
 Se manejan los roles asociados a unas funciones.
 
 ![Punto de Funciones del Negocio ](imagenes_vistas/FuncionesDelNegocio.png)
 
+## Vista de Aplicación
+![Punto de Aplicación](imagenes_vistas/Aplicacion.png)
+
+## Vista de Capas
+![Punto de Capas ](imagenes_vistas/Capas.png)
+
+## Vista de componentes
+![Punto de Componentes ](imagenes_vistas/ComponentesApp.png)
+
+## Vista de Contribución de Objetivos
+![Punto de Contribución de objetivos ](imagenes_vistas/Contribución_Objetivos.png)
+
+## Vista de Cooperación de proceso de negocio
+![Punto de Cooperacion de proceso de negocio ](imagenes_vistas/Cooperacion_de_proceso_de_negocio.png)
+
+## Vista de Estructura de información
+![Punto de Estructura información ](imagenes_vistas/Estructura_información.png)
+
+## Vista de Estructura de aplicación
+![Punto de Estructura aplicación ](imagenes_vistas/EstructuraApp.png)
+
+## Vista de Infraestructura
+![Punto de Infraestructura_Clase ](imagenes_vistas/Infraestructura_Clase.png)
+
+
+## Vista Motivacional
+![Punto Motivacional ](imagenes_vistas/Motivacional.png)
+
+
+## Vista de Implementación
+![Punto de Implementación ](imagenes_vistas/Organización-implementacion.png)
+
+
+## Vista de Productos
+![Punto de Productos ](imagenes_vistas/Productos.png)
+
+## Vista de Realizacion Requerimientos
+![Punto de Realizacion Requerimientos ](imagenes_vistas/RalizacionRequerimientos.png)
+
+## Vista de Uso de Infraestructura
+![Punto de Uso Infraestructura ](imagenes_vistas/Uso-Infraestructura.png)
+
+## Vista de Uso de Aplicación
+![Punto de Uso de la Aplicación ](imagenes_vistas/UsoApp.png)
+
+## Vista de Venta Productos
+![Punto de Venta de Productos ](imagenes_vistas/Venta_Productos.png)
 
 
 ## Explicación general del Código que se presenta
-Para el desarrollo de la implementación se usa python, nginx, flask y docker como contenedor. De esta forma encontramos la siguiente información: 
+
 ```
 
 ```
