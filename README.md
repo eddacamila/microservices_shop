@@ -60,16 +60,13 @@ Se manejan los roles asociados a unas funciones.
 ![Punto de Infraestructura_Clase ](imagenes_vistas/Infraestructura_Clase.png)
 
 
-## Vista de Infraestructura
-![Punto de Infraestructura_Clase ](imagenes_vistas/Infraestructura_Clase.png)
-Motivacional.png
+## Vista Motivacional
+![Punto Motivacional ](imagenes_vistas/Motivacional.png)
 
-## Vista de Infraestructura
-![Punto de Infraestructura_Clase ](imagenes_vistas/Infraestructura_Clase.png)
 
-## Vista de Infraestructura
-![Punto de Infraestructura_Clase ](imagenes_vistas/Infraestructura_Clase.png)
-Organización-implementacion.png
+## Vista de Implementación
+![Punto de Implementación ](imagenes_vistas/Organización-implementacion.png)
+
 
 ## Vista de Productos
 ![Punto de Productos ](imagenes_vistas/Productos.png)
