@@ -48,10 +48,10 @@ Se manejan los roles asociados a unas funciones.
 ![Punto de Contribución de objetivos ](imagenes_vistas/Contribución_Objetivos.png)
 
 ## Vista de Cooperación de proceso de negocio
-![Punto de Cooperacion de proceso de negocio ](imagenes_vistas/Cooperacion de proceso de negocio.png)
+![Punto de Cooperacion de proceso de negocio ](imagenes_vistas/Cooperacion_de_proceso_de_negocio.png)
 
 ## Vista de Estructura de información
-![Punto de Estructura información ](imagenes_vistas/Estructura información.png)
+![Punto de Estructura información ](imagenes_vistas/Estructura_información.png)
 
 ## Vista de Estructura de aplicación
 ![Punto de Estructura aplicación ](imagenes_vistas/EstructuraApp.png)
@@ -81,7 +81,7 @@ Se manejan los roles asociados a unas funciones.
 ![Punto de Uso de la Aplicación ](imagenes_vistas/UsoApp.png)
 
 ## Vista de Venta Productos
-![Punto de Venta de Productos ](imagenes_vistas/Venta Productos.png)
+![Punto de Venta de Productos ](imagenes_vistas/Venta_Productos.png)
 
 
 ## Explicación general del Código que se presenta
