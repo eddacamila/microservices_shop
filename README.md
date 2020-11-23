@@ -1,4 +1,4 @@
-# MICROTIENDA CON MICROSERVICIOS (Microservices Shop)
+# MICROTIENDA CON MICROSERVICIOS (Microservices Shop) :calling:
 Este ejercicio muestra a grandes rasgos la implemetación de una arquitectura de microservicios de una tienda pequeña, que dispone de:
 
 * Gestión de inventarios
@@ -15,7 +15,7 @@ Para poner en funcionamiento esta implementación siga las siguientes instruccio
 
 Esta implementación tuvo un procedimiento previo que consideró el diseño de la arquitectura de la aplicación, que seexplicará a continuación.
 
-# MODELADO DE ARQUITECTURA
+# MODELADO DE ARQUITECTURA :pencil:
 
 Se subraya que "El diseño crea una representación o modelo del software, pero, a diferencia del modelo de los requerimientos (que se centra en describir los datos que se
 necesitan, la función y el comportamiento), **el modelo de diseño proporciona detalles sobre arquitectura del software, estructuras de datos, interfaces y componentes que
@@ -25,9 +25,11 @@ Según esto se ha realizado un trabajo de arquitectura de software en el que seg
 
 ## Vista de Organización
 Este punto de vista muestra los actores (tenderos, tienda, dueño ) y sus relaciones en el negocio, que considera por un lado la venta de productos por internet (a domicilio) y por otro lado el despacho de mercancía de productos en la tienda. 
+
 ![Punto de vista de Organización](imagenes_vistas/Organización.png)
 ## Actor-Cooperación 
 Este punto de vista extiende el punto de vista anterior, determinando relaciones externas y colaboraciones, muestra las redes sobre la que operan los actores. La pagína web expondría un servicio. Por eso, se observa  un servicio que se llama **solicitar pedido** asociado a la página web. Además se puede modelar la interfaz del servicio que modela el rol de negocios del tendero que se llama **registro de pedidos** ofertada por un componente de aplicación denominada **pedidos** (Relación de composición). Se deja a nivel de negocio y se muestra la colaboración de actores y cómo se ve realizada esta colaboración entre actores para el despacho de pedidos por medio de la página web.
+
 ![Punto de vista Actor-Cooperación](imagenes_vistas/Actor-Cooperación.png)
 
 ## Vista de Funciones del Negocio
@@ -89,3 +91,7 @@ Se manejan los roles asociados a unas funciones.
 ```
 
 ```
+## Explicación general del Código que se presenta :scroll:
+
+Nestor Camilo Beltrán 20202099021
+Edda Camila Rodríguez Mojica 20202099033
