@@ -1,9 +1,9 @@
 # MICROTIENDA CON MICROSERVICIOS (Microservices Shop) :calling:
 Este ejercicio muestra a grandes rasgos la implemetación de una arquitectura de microservicios de una tienda pequeña, que dispone de:
 
-* Gestión de inventarios
-* Gestion de clientes
-
+* Gestión de inventarios (estático)
+* Gestion de clientes (estático)
+* Registrar el pedido (Queda registrado que x persona hizo un pedido a y tendero)
 como microservicios. 
 
 Para poner en funcionamiento esta implementación siga las siguientes instrucciones:
