@@ -1,4 +1,4 @@
-# MICROTIENDA CON MICROSERVICIOS (Microservices Shop) :calling:
+# MICROTIENDA CON MICROSERVICIOS (Microservices Shop)          :calling:
 Este ejercicio muestra a grandes rasgos la implemetación de una arquitectura de microservicios de una tienda pequeña, que dispone de:
 
 * Gestión de inventarios (estático)
